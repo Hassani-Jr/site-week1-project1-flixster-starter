@@ -99,6 +99,11 @@ function generateCards(movieObject){
     let image = document.createElement('img')
     image.src = "https://image.tmdb.org/t/p//w200/" + movieObject.poster_path
     document.body.insertBefore(image, avgContainer)
+
+    let name = document.createElement('div')
+    name.classList.add('name')
+    name.innerText = movieObject.original_title
+    document.body.insertBefore(name, avgContainer.nextSibling)
 }
 
 generateCards(firstMovie)
