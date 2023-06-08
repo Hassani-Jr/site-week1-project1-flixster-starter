@@ -1,1 +1,18 @@
 
+
+
+
+#movieContainer{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+.movie{
+    
+        flex: 1 0 21%; /* explanation below */
+        margin: 5px;
+    
+}
