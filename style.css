@@ -1,8 +1,15 @@
 
 
+h1{
+    text-align: center;
+}
+
+body{background: black}
 
 
-#movieContainer{
+
+
+#movies-grid{
 
     display: flex;
     justify-content: space-evenly;
@@ -12,7 +19,43 @@
 
 .movie{
     
-        flex: 1 0 21%; /* explanation below */
+        flex: 1 0 21%;
         margin: 5px;
     
+}
+
+#searchForm{
+    
+}
+
+img{
+    border-radius: 10%;
+
+}
+
+img:hover {
+    transform: scale(1.1);
+    transition-delay: 0.5  ease;
+}
+.average{
+    color: white;
+}
+
+.name{
+    font-weight: ;
+    color: white;
+}
+
+h1{color: white;}
+
+#searchBox{
+
+    text-align: center;
+}
+#searchBar{
+    overflow: hidden;
+}
+
+#footer{
+    text-align: center;
 }
