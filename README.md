@@ -40,7 +40,7 @@ Deployed Application (optional): <a href ='https://hassani-jr.github.io/site-wee
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
-https://www.loom.com/share/8cc5fd7dcb72437888f2123e7115b3f7
+https://www.loom.com/share/d716043029254a0f9e0d88ff523a021c
 
 ### Reflection
 
