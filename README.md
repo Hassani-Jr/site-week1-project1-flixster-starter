@@ -5,7 +5,7 @@ Submitted by: Wissam Hassani
 
 Estimated time spent: **9** hours spent in total
 
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): <a href ='https://hassani-jr.github.io/site-week1-project1-flixster-starter/'>[Flixster Deployed Site]</a>
 
 ### Application Features
 
