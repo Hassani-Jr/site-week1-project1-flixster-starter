@@ -3,7 +3,7 @@
 
 Submitted by: Wissam Hassani
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **9** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -41,7 +41,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-<img href="http://g.recordit.co/xEnP7vZ61J.gif" width = '300' height = '300'>
+<img href="https://s3.amazonaws.com/img0.recordit.co/Y8jgIFpfUK.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1686379107&Signature=N3Td3QWRql20BRgO2osQQl4iIrY%3D" width = '300' height = '300'>
 
 ### Reflection
 
