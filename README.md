@@ -46,15 +46,15 @@ https://www.loom.com/share/8cc5fd7dcb72437888f2123e7115b3f7
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yeah the topics with really helped with the projects by means of hands on work
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would have done more on the ui where it would be able to adjust acording to a user's impairities such as implementing a dark mode.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+The uploading of the video was extremely challenging as nothing could display the video until a peer pointed out that we could just link the loom video directly to the readMe file.
 
 ### Open-source libraries used
 
